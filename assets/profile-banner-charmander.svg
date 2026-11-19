@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+<title id="title">Utkarsh Jain — Building Useful Things</title>
+<desc id="desc">A warm orange developer banner with a friendly orange fire-tailed lizard mascot using a laptop. Text highlights AI, full-stack development and machine learning.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff9d24"/><stop offset=".55" stop-color="#ed6416"/><stop offset="1" stop-color="#a93612"/></linearGradient>
+  <linearGradient id="desk" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff3df"/><stop offset="1" stop-color="#f4d9bc"/></linearGradient>
+  <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffbd55"/><stop offset=".5" stop-color="#ff8424"/><stop offset="1" stop-color="#d94b16"/></linearGradient>
+  <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7f2ec"/><stop offset="1" stop-color="#bfc5d0"/></linearGradient>
+  <radialGradient id="flame"><stop stop-color="#fff7a6"/><stop offset=".45" stop-color="#ffe33d"/><stop offset="1" stop-color="#ff6b16"/></radialGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<rect width="1600" height="520" rx="22" fill="url(#bg)"/>
+<path d="M0 0h1600v92c-260 54-425 9-650 43C620 176 370 126 0 192Z" fill="#ffb34a" opacity=".22"/>
+<path d="M0 440c250-35 430 30 680 8 260-22 440-62 920-5v77H0Z" fill="url(#desk)"/>
+<path d="M0 438c290-35 475 30 720 7 250-23 475-59 880-5" fill="none" stroke="#fff8ee" stroke-width="4" opacity=".8"/>
+<g opacity=".18" stroke="#ffe5c1" fill="none"><path d="M1030 72h250v160h-250z"/><path d="M1054 105h90m-90 24h150m-150 24h112"/><circle cx="1070" cy="90" r="5"/><circle cx="1090" cy="90" r="5"/><circle cx="1110" cy="90" r="5"/></g>
+<text x="92" y="128" fill="#fff7eb" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="9">UTKARSH JAIN</text>
+<path d="M445 119h96" stroke="#fff7eb" stroke-width="3" opacity=".85"/>
+<text x="88" y="252" fill="#fff" font-family="Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Building <tspan fill="#ffe16a" font-style="italic">Useful</tspan></text>
+<text x="88" y="335" fill="#fff" font-family="Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Things.</text>
+<text x="94" y="390" fill="#fff5e8" font-family="Arial,sans-serif" font-size="25">CS-AI Undergraduate  ·  Full-Stack Development  ·  Machine Learning</text>
+<rect x="92" y="420" width="430" height="62" rx="31" fill="#7d310e" fill-opacity=".62" stroke="#ffd28b" stroke-width="2"/>
+<text x="124" y="460" fill="#fff6e8" font-family="monospace" font-size="27" font-weight="700">›_  ideas → code → <tspan fill="#ffe16a">impact</tspan></text>
+<ellipse cx="1275" cy="454" rx="220" ry="25" fill="#7e2e0b" opacity=".28" filter="url(#shadow)"/>
+<!-- Friendly original fire-tailed lizard mascot -->
+<path d="M1432 420c65-15 91-63 77-121-8-33-34-48-46-73-12 34-8 62 9 85 20 28 7 65-40 76Z" fill="url(#orange)" stroke="#b94a17" stroke-width="5"/>
+<path d="M1468 263c-2-36 17-67 29-95 18 39 18 65 0 95-10 17-17 30-17 48-12-15-13-30-12-48Z" fill="url(#flame)"/>
+<path d="M1190 428c-29-12-44-39-34-72l26-77 63 20-8 111Z" fill="url(#orange)" stroke="#b94a17" stroke-width="5"/>
+<path d="M1325 420c-15-15-23-36-18-61l25-88 67 13 20 129Z" fill="url(#orange)" stroke="#b94a17" stroke-width="5"/>
+<ellipse cx="1325" cy="250" rx="142" ry="156" fill="url(#orange)" stroke="#b94a17" stroke-width="5"/>
+<path d="M1204 159c13-79 91-115 164-83 45 20 73 69 68 117-42-20-79-31-130-25-43 5-70 20-102 42Z" fill="#ff9c32" opacity=".65"/>
+<ellipse cx="1274" cy="212" rx="43" ry="55" fill="#fff"/>
+<ellipse cx="1378" cy="212" rx="43" ry="55" fill="#fff"/>
+<ellipse cx="1281" cy="218" rx="23" ry="34" fill="#123b52"/>
+<ellipse cx="1370" cy="218" rx="23" ry="34" fill="#123b52"/>
+<ellipse cx="1288" cy="207" rx="8" ry="11" fill="#fff"/>
+<ellipse cx="1377" cy="207" rx="8" ry="11" fill="#fff"/>
+<path d="M1300 288q26 24 53 0" fill="none" stroke="#8d321c" stroke-width="9" stroke-linecap="round"/>
+<path d="M1310 288q17 9 33 0" fill="none" stroke="#fff1d8" stroke-width="5" stroke-linecap="round"/>
+<path d="M1205 120q-10-41 23-65 18 40 1 67M1395 120q15-41-8-68-25 35-11 69" fill="#ff9c32" stroke="#c94d17" stroke-width="5"/>
+<ellipse cx="1201" cy="354" rx="33" ry="46" fill="url(#orange)" transform="rotate(-25 1201 354)"/>
+<ellipse cx="1434" cy="355" rx="33" ry="46" fill="url(#orange)" transform="rotate(25 1434 355)"/>
+<!-- Laptop -->
+<path d="M1160 342q0-17 18-17h305q18 0 18 17v132h-341Z" fill="url(#screen)" stroke="#9ba1ac" stroke-width="4"/>
+<path d="M1150 473h366l35 22q4 8-10 8h-408q-14 0-9-8Z" fill="#aeb5c0" stroke="#838b98" stroke-width="3"/>
+<text x="1328" y="422" text-anchor="middle" fill="#343a45" font-family="monospace" font-size="54" font-weight="700">&lt;/&gt;</text>
+</svg>
