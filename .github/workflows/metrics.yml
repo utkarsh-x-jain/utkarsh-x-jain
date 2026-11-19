@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: utkarsh-x-jain
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
           config_timezone: Asia/Kolkata
           config_display: large
           plugin_isocalendar: yes
@@ -28,6 +28,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_details: percentage
-          plugin_activity: yes
-          plugin_activity_limit: 5
           filename: github-metrics.svg
