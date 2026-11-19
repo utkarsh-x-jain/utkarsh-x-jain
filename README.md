@@ -105,24 +105,37 @@ CS & AI student building useful software across **AI integrations, APIs, and ful
 
 **Areas of focus:** Machine Learning · API Development · Database Design · Frontend Development · Backend Development
 
-## GitHub Activity
+## Contribution Arena
 
 <div align="center">
 
-<img src="https://pokereadme.murilonoguez.com.br/api?user=utkarsh-x-jain&pokes=25,6,9,3,94,149" width="100%" alt="Utkarsh's animated Pokémon team" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,55:8B5CF6,100:22D3EE" width="100%" alt="" />
+
+<p><em>Consistency over intensity. Every contribution is another step forward.</em></p>
+
+<table>
+  <tr>
+    <td width="78%" valign="middle">
+      <img src="./github-metrics.svg" width="100%" alt="Live GitHub contribution calendar, coding languages and contribution statistics" />
+    </td>
+    <td width="22%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="150" alt="Animated Charizard" />
+      <br/>
+      <strong>CHARIZARD</strong>
+      <br/>
+      <sub>My contribution guardian</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-
+## GitHub Statistics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=utkarsh-x-jain&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="165" alt="GitHub statistics" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-x-jain&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="Most used languages" />
-
-<br/><br/>
-
-<img src="./github-metrics.svg" width="100%" alt="GitHub contribution calendar and activity metrics" />
 
 </div>
 
