@@ -14,7 +14,7 @@
       <h2>Let's create something impactful.</h2>
       <sub>Open to collaborations, interesting projects, and opportunities.</sub>
       <br/><br/>
-      <a href="https://www.linkedin.com/in/utkarsh-x-jain/"><img src="https://img.shields.io/badge/LINKEDIN-NETWORK-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0D1117" alt="LinkedIn — Network"/></a>
+      <a href="https://www.linkedin.com/in/utkarsh-x-jain/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Connect"/></a>
       <a href="mailto:jainutkarsh986@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117" alt="Email — Contact"/></a>
       <a href="https://github.com/utkarsh-x-jain"><img src="https://img.shields.io/badge/GITHUB-EXPLORE-161B22?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117" alt="GitHub — Explore"/></a>
       <br/><br/>
