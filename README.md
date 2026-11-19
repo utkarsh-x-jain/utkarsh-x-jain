@@ -14,9 +14,9 @@
       <h2>Let's create something impactful.</h2>
       <sub>Open to collaborations, interesting projects, and opportunities.</sub>
       <br/><br/>
-      <a href="https://www.linkedin.com/in/utkarsh-x-jain/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Connect"/></a>
-      <a href="mailto:jainutkarsh986@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117" alt="Email — Contact"/></a>
-      <a href="https://github.com/utkarsh-x-jain"><img src="https://img.shields.io/badge/GITHUB-EXPLORE-161B22?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117" alt="GitHub — Explore"/></a>
+      <a href="https://www.linkedin.com/in/utkarsh-x-jain/"><img src="https://img.shields.io/badge/LINKEDIN-LET%27S%20CONNECT-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22" alt="LinkedIn — Let’s connect"/></a>
+      <a href="mailto:jainutkarsh986@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=161B22" alt="Email — Say hello"/></a>
+      <a href="https://github.com/utkarsh-x-jain"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-161B22?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22" alt="GitHub — View profile"/></a>
       <br/><br/>
       <sub>STATUS: OPEN TO BUILD · END OF INTERFACE_</sub>
     </td>
