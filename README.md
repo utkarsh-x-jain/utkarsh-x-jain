@@ -16,15 +16,42 @@
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I'm pursuing a **B.Tech in Computer Science (AI)** at **Newton School of Technology**, with an expected graduation year of **2029**.
+```javascript
+const utkarsh = {
+  location: "India 🇮🇳",
+  education: "B.Tech in Computer Science & AI",
+  university: "Newton School of Technology",
+  graduation: 2029,
 
-My interests sit at the intersection of **artificial intelligence, machine learning, backend systems, and product development**. I learn by building, experimenting, and improving projects through practical work.
+  currently: [
+    "Building AI-powered products",
+    "Developing full-stack applications",
+    "Exploring practical applications of machine learning"
+  ],
 
-- Currently developing: **Signal** — an infrastructure risk monitoring and early-warning platform.
-- Built: **EstateIQ** — an ML-based house price prediction application.
-- Exploring: machine learning, APIs, databases, and full-stack engineering.
+  projects: [
+    "Signal — Infrastructure Early-Warning System",
+    "EstateIQ — AI House Price Predictor"
+  ],
+
+  roles: [
+    "Computer Science & AI Student",
+    "Full-Stack Developer",
+    "AI/ML Project Builder"
+  ],
+
+  interests: [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Backend Engineering",
+    "Building useful products"
+  ]
+};
+```
+
+CS & AI student building useful software across **AI integrations, APIs, and full-stack systems**. I enjoy turning ideas into practical products, learning by building, and solving real-world problems through technology.
 
 ## Selected Projects
 
