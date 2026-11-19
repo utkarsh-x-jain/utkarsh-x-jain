@@ -2,6 +2,8 @@
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Utkarsh Jain — AI and Full-Stack Developer" />
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+%26+Full-Stack+Developer;Building+products%2C+not+just+projects;Turning+ideas+into+working+software;Always+learning.+Always+shipping." alt="Animated typing introduction" /></a>
+
 <br/>
 
 <a href="https://www.linkedin.com/in/utkarsh-x-jain/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -55,6 +57,12 @@ CS & AI student building useful software across **AI integrations, APIs, and ful
 
 ## Selected Projects
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:58A6FF,50:8B5CF6,100:22D3EE&section=header" width="100%" alt="" />
+
+</div>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -101,6 +109,14 @@ CS & AI student building useful software across **AI integrations, APIs, and ful
 
 <div align="center">
 
+<img src="https://github.com/utkarsh-x-jain/utkarsh-x-jain/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+
+</div>
+
+
+
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=utkarsh-x-jain&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="165" alt="GitHub statistics" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-x-jain&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="Most used languages" />
 
@@ -124,6 +140,6 @@ CS & AI student building useful software across **AI integrations, APIs, and ful
 
 <a href="mailto:jainutkarsh986@gmail.com">Let's connect</a> · <a href="https://www.linkedin.com/in/utkarsh-x-jain/">LinkedIn</a>
 
-<sub>Designed and maintained by Utkarsh Jain</sub>
+<sub>Designed and maintained by Utkarsh Jain · Built with curiosity and caffeine</sub>
 
 </div>
