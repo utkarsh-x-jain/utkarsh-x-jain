@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+<title id="title">Utkarsh Jain — Building Useful Things</title>
+<desc id="desc">A dark teal developer banner with a friendly sleepy blue bear mascot using a laptop, coffee mug, and plants. Text highlights computer science, full-stack development, machine learning, and AI systems.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061d24"/><stop offset=".56" stop-color="#063b3c"/><stop offset="1" stop-color="#071b28"/></linearGradient>
+  <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0b7b70"/><stop offset=".5" stop-color="#13a58b"/><stop offset="1" stop-color="#0b5365"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4c9cb2"/><stop offset=".5" stop-color="#23677d"/><stop offset="1" stop-color="#123d55"/></linearGradient>
+  <linearGradient id="belly" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f5e8c9"/><stop offset="1" stop-color="#d9c8a8"/></linearGradient>
+  <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef2f3"/><stop offset="1" stop-color="#aebbc2"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<rect width="1600" height="520" rx="22" fill="url(#bg)"/>
+<path d="M0 0h1600v90c-270 70-440 5-665 46C630 181 370 125 0 192Z" fill="#1e8d80" opacity=".10"/>
+<g opacity=".12" stroke="#53cbb4" fill="none"><path d="M1060 74h260v155h-260z"/><path d="M1085 109h95m-95 25h145m-145 25h112"/><circle cx="1100" cy="91" r="5"/><circle cx="1120" cy="91" r="5"/><circle cx="1140" cy="91" r="5"/></g>
+<path d="M0 430c250-55 440 28 700 4 300-28 520-68 900-5v91H0Z" fill="#0b302f"/>
+<path d="M0 436c250-55 440 28 700 4 300-28 520-68 900-5" fill="none" stroke="#24b79a" stroke-width="3" opacity=".65"/>
+<path d="M0 473c300-44 520 35 820 2 280-31 500-42 780-10" fill="none" stroke="url(#wave)" stroke-width="22" opacity=".55"/>
+<text x="92" y="128" fill="#e7f5f2" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="9">UTKARSH JAIN</text>
+<path d="M445 119h96" stroke="#9ce5d4" stroke-width="3" opacity=".85"/>
+<text x="88" y="252" fill="#f4fbfa" font-family="Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Building <tspan fill="#52d6b2" font-style="italic">Useful</tspan></text>
+<text x="88" y="335" fill="#f4fbfa" font-family="Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Things.</text>
+<text x="94" y="390" fill="#d3e9e5" font-family="Arial,sans-serif" font-size="25">CS-AI Undergraduate  ·  Full-Stack Development  ·  Machine Learning  ·  AI Systems</text>
+<rect x="92" y="420" width="430" height="62" rx="31" fill="#082b30" fill-opacity=".82" stroke="#25b89b" stroke-width="2"/>
+<text x="124" y="460" fill="#e8faf5" font-family="monospace" font-size="27" font-weight="700">›_  ideas → code → <tspan fill="#52d6b2">impact</tspan></text>
+<ellipse cx="1288" cy="465" rx="230" ry="22" fill="#03171e" opacity=".5" filter="url(#shadow)"/>
+<!-- leafy desk accents -->
+<g fill="#168c67" stroke="#0b604e" stroke-width="3"><path d="M1138 455q-75-66-42-112 48 25 42 112Z"/><path d="M1162 457q-18-88 33-112 26 52-33 112Z"/><path d="M1482 455q-13-83 41-112 26 53-41 112Z"/><path d="M1508 456q31-75 78-72-1 58-78 72Z"/></g>
+<g fill="#43b88b" opacity=".8"><path d="M1115 458q-42-44-24-75 34 20 24 75Z"/><path d="M1515 459q30-45 62-37-9 36-62 37Z"/></g>
+<!-- sleepy blue bear mascot -->
+<path d="M1205 435c-42-25-52-73-29-112 17-28 42-42 61-50 4-67 55-119 129-119 75 0 126 52 130 119 33 15 58 43 62 80 5 43-18 74-54 88Z" fill="url(#blue)" stroke="#0a2c3a" stroke-width="6"/>
+<path d="M1250 177q-30-56 4-101 44 16 50 75M1412 150q4-59 51-77 29 51-3 105" fill="#245d73" stroke="#0a2c3a" stroke-width="6"/>
+<ellipse cx="1365" cy="331" rx="120" ry="130" fill="url(#belly)" stroke="#a9987d" stroke-width="4"/>
+<path d="M1260 235q33-26 69-15M1403 220q35-11 67 15" fill="none" stroke="#174b60" stroke-width="8" stroke-linecap="round"/>
+<path d="M1290 272q25 18 50 0M1390 272q25 18 50 0" fill="none" stroke="#163d4c" stroke-width="8" stroke-linecap="round"/>
+<path d="M1338 316q25 14 51 0" fill="none" stroke="#8b7461" stroke-width="6" stroke-linecap="round"/>
+<path d="M1260 364q-58-5-66 45 26 37 75 22M1472 365q58-4 66 43-25 38-75 24" fill="url(#blue)" stroke="#0a2c3a" stroke-width="6"/>
+<path d="M1272 445q-35 32-20 54h82q20-30-9-53M1410 445q-25 26-9 54h81q16-23-19-54" fill="#173f53" stroke="#0a2c3a" stroke-width="6"/>
+<!-- laptop -->
+<path d="M1190 345q0-17 18-17h310q18 0 18 17v137h-346Z" fill="url(#screen)" stroke="#7f929b" stroke-width="4"/>
+<path d="M1180 481h366l35 22q4 8-10 8h-408q-14 0-9-8Z" fill="#9eabb3" stroke="#72828d" stroke-width="3"/>
+<text x="1360" y="424" text-anchor="middle" fill="#263b46" font-family="monospace" font-size="54" font-weight="700">&lt;/&gt;</text>
+<!-- coffee mug and steam -->
+<path d="M1514 444h64v48q0 16-16 16h-32q-16 0-16-16Z" fill="#d7e7e2" stroke="#75958d" stroke-width="4"/>
+<path d="M1578 453q42-3 31 29-8 20-31 13" fill="none" stroke="#d7e7e2" stroke-width="9"/>
+<circle cx="1547" cy="466" r="15" fill="#d84b43"/>
+<path d="M1534 466h26M1547 452v28" stroke="#f8e8ce" stroke-width="3"/>
+<path d="M1530 432q-13-20 2-33M1552 430q-12-18 1-31" fill="none" stroke="#c6e3d8" stroke-width="4" stroke-linecap="round" opacity=".7"/>
+<text x="1492" y="125" fill="#39c9a6" font-family="Arial,sans-serif" font-size="37" font-weight="700">Z</text>
+<text x="1532" y="91" fill="#39c9a6" font-family="Arial,sans-serif" font-size="29" font-weight="700">Z</text>
+<text x="1562" y="63" fill="#39c9a6" font-family="Arial,sans-serif" font-size="22" font-weight="700">Z</text>
+</svg>
