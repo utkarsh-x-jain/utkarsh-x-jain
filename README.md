@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Utkarsh Jain — AI and Full-Stack Developer" />
+<img src="./assets/profile-banner-v2.svg" width="100%" alt="Utkarsh Jain — AI and Full-Stack Developer" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+%26+Full-Stack+Developer;Building+products%2C+not+just+projects;Turning+ideas+into+working+software;Always+learning.+Always+shipping." alt="Animated typing introduction" /></a>
 
