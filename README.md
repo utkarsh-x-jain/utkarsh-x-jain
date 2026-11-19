@@ -1,110 +1,102 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Utkarsh Jain — AI and Full-Stack Developer banner" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Utkarsh Jain — AI and Full-Stack Developer" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/utkarsh-x-jain/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:jainutkarsh986@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/utkarsh-x-jain"><img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/utkarsh-x-jain/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:jainutkarsh986@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/utkarsh-x-jain"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br/><br/>
+**Computer Science (AI) undergraduate · Aspiring AI & Full-Stack Engineer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C6CFF&center=true&vCenter=true&width=650&lines=Always+Learning%2C+Always+Growing;Turning+Ideas+into+Working+Products;Exploring+AI%2C+ML+%26+Full-Stack+Engineering" alt="Typing introduction" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=utkarsh-x-jain&label=PROFILE%20VIEWS&color=6554C0&style=for-the-badge" alt="Profile views"/>
+*I enjoy turning ideas into useful software — from ML prototypes to full-stack applications.*
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-```javascript
-const utkarsh = {
-  education: "B.Tech in Computer Science (AI)",
-  university: "Newton School of Technology",
-  graduation: 2029,
-  interests: [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Full-Stack Development",
-    "Building useful products"
-  ],
-  currentlyBuilding: ["Signal", "EstateIQ"],
-  goal: "Turn ambitious ideas into practical technology"
-};
-```
+I'm pursuing a **B.Tech in Computer Science (AI)** at **Newton School of Technology**, with an expected graduation year of **2029**.
 
-## 📊 GitHub Stats
+My interests sit at the intersection of **artificial intelligence, machine learning, backend systems, and product development**. I learn by building, experimenting, and improving projects through practical work.
 
-<div align="center">
+- Currently developing: **Signal** — an infrastructure risk monitoring and early-warning platform.
+- Built: **EstateIQ** — an ML-based house price prediction application.
+- Exploring: machine learning, APIs, databases, and full-stack engineering.
 
-<img src="https://github-readme-stats.vercel.app/api?username=utkarsh-x-jain&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-x-jain&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="Most used languages"/>
-
-</div>
-
-## 🗓️ Contribution Calendar
-
-<div align="center">
-
-<img src="./github-metrics.svg" alt="GitHub contribution calendar and activity metrics" width="100%"/>
-
-</div>
-
-## 🚀 Featured Projects
+## Selected Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/utkarsh-x-jain/EstateIQ">🏡 EstateIQ</a></h3>
-      <p>AI-powered house price prediction platform using machine learning, model comparison and a Streamlit interface.</p>
-      <p><sub>Python · Scikit-learn · Pandas · Streamlit</sub></p>
-      <a href="https://estateiq-tech.streamlit.app/">Live Demo</a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/utkarsh-x-jain/signal">Signal</a></h3>
+      <p><strong>Infrastructure risk monitoring & early-warning platform</strong></p>
+      <p>Combines infrastructure signals and risk analysis to help identify potential issues before they escalate.</p>
+      <p><sub>React · Vite · FastAPI · PostgreSQL · Scikit-learn</sub></p>
+      <a href="https://signal-six-plum.vercel.app/">Live application</a>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/utkarsh-x-jain/signal">⚡ Signal</a></h3>
-      <p>Infrastructure Failure Early-Warning System — focused on identifying potential disruptions before they escalate.</p>
-      <p><sub>Full Stack · Data · Early Warning</sub></p>
-      <a href="https://signal-six-plum.vercel.app/">Live Demo</a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/utkarsh-x-jain/EstateIQ">EstateIQ</a></h3>
+      <p><strong>AI-powered house price prediction</strong></p>
+      <p>Machine-learning application that compares regression models and predicts house prices through an interactive interface.</p>
+      <p><sub>Python · Scikit-learn · Pandas · Streamlit</sub></p>
+      <a href="https://estateiq-tech.streamlit.app/">Live application</a>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <h3><a href="https://github.com/utkarsh-x-jain/FinRuppee">💳 FinRuppee</a></h3>
-      <p>A modern payments-focused web experience designed around digital payments in India.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/utkarsh-x-jain/FinRuppee">FinRuppee</a></h3>
+      <p><strong>Payments-focused web concept</strong></p>
+      <p>A frontend project exploring a modern digital-payments experience.</p>
       <p><sub>HTML · CSS · JavaScript</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/utkarsh-x-jain/SC-Disruption_AP_2026">SC Disruption</a></h3>
+      <p><strong>Collaborative capstone project</strong></p>
+      <p>Contributing to a team project focused on software and database engineering.</p>
     </td>
   </tr>
 </table>
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,express,mysql,postgres,prisma,git,github,vscode,sklearn&perline=7" alt="Technology icons"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,fastapi,mysql,postgres,prisma,git,github&perline=7" alt="Technologies" />
 
 </div>
 
-## 🏆 Highlights
+**Areas of focus:** Machine Learning · API Development · Database Design · Frontend Development · Backend Development
 
-- Selected for **Crossroads**, a case competition at **IIT Delhi — Ignite 2026**.
-- Building projects across AI/ML and full-stack development.
-- Always learning, experimenting and improving through hands-on work.
-
-## 🤝 Connect With Me
+## GitHub Activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/utkarsh-x-jain/"><img src="https://img.shields.io/badge/LinkedIn-Utkarsh%20Jain-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="mailto:jainutkarsh986@gmail.com"><img src="https://img.shields.io/badge/Gmail-jainutkarsh986%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/utkarsh-x-jain"><img src="https://img.shields.io/badge/GitHub-utkarsh--x--jain-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=utkarsh-x-jain&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-x-jain&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="Most used languages" />
 
 <br/><br/>
 
-*Building. Learning. Experimenting. 🚀*
+<img src="./github-metrics.svg" width="100%" alt="GitHub contribution calendar and activity metrics" />
+
+</div>
+
+## Highlights
+
+- Selected for **Crossroads**, a case competition at **IIT Delhi's Ignite 2026**.
+- Building practical projects across AI/ML and full-stack development.
+- Focused on learning through implementation and collaborative engineering.
+
+---
+
+<div align="center">
+
+**Open to learning opportunities, collaboration, and meaningful projects.**
+
+<a href="mailto:jainutkarsh986@gmail.com">Let's connect</a> · <a href="https://www.linkedin.com/in/utkarsh-x-jain/">LinkedIn</a>
+
+<sub>Designed and maintained by Utkarsh Jain</sub>
 
 </div>
