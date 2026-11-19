@@ -109,7 +109,7 @@ CS & AI student building useful software across **AI integrations, APIs, and ful
 
 <div align="center">
 
-<img src="https://github.com/utkarsh-x-jain/utkarsh-x-jain/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+<img src="https://pokereadme.murilonoguez.com.br/api?user=utkarsh-x-jain&pokes=25,6,9,3,94,149" width="100%" alt="Utkarsh's animated Pokémon team" />
 
 </div>
 
