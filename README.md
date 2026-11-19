@@ -67,6 +67,7 @@ CS & AI student building useful software across **AI integrations, APIs, and ful
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/utkarsh-x-jain/signal">Signal</a></h3>
+      <img src="./assets/project-demos/signal.svg" width="100%" alt="Animated Signal infrastructure monitoring demo" />
       <p><strong>Infrastructure risk monitoring & early-warning platform</strong></p>
       <p>Combines infrastructure signals and risk analysis to help identify potential issues before they escalate.</p>
       <p><sub>React · Vite · FastAPI · PostgreSQL · Scikit-learn</sub></p>
@@ -74,6 +75,7 @@ CS & AI student building useful software across **AI integrations, APIs, and ful
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/utkarsh-x-jain/EstateIQ">EstateIQ</a></h3>
+      <img src="./assets/project-demos/estateiq.svg" width="100%" alt="Animated EstateIQ house price prediction demo" />
       <p><strong>AI-powered house price prediction</strong></p>
       <p>Machine-learning application that compares regression models and predicts house prices through an interactive interface.</p>
       <p><sub>Python · Scikit-learn · Pandas · Streamlit</sub></p>
@@ -83,12 +85,14 @@ CS & AI student building useful software across **AI integrations, APIs, and ful
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/utkarsh-x-jain/FinRuppee">FinRuppee</a></h3>
+      <img src="./assets/project-demos/finruppee.svg" width="100%" alt="Animated FinRuppee digital payment demo" />
       <p><strong>Payments-focused web concept</strong></p>
       <p>A frontend project exploring a modern digital-payments experience.</p>
       <p><sub>HTML · CSS · JavaScript</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/utkarsh-x-jain/SC-Disruption_AP_2026">SC Disruption</a></h3>
+      <img src="./assets/project-demos/sc-disruption.svg" width="100%" alt="Animated SC Disruption application API and database workflow" />
       <p><strong>Collaborative capstone project</strong></p>
       <p>Contributing to a team project focused on software and database engineering.</p>
     </td>
