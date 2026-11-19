@@ -105,28 +105,17 @@ CS & AI student building useful software across **AI integrations, APIs, and ful
 
 **Areas of focus:** Machine Learning · API Development · Database Design · Frontend Development · Backend Development
 
-## Contribution Arena
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,55:8B5CF6,100:22D3EE" width="100%" alt="" />
+<img src="https://pokereadme.murilonoguez.com.br/api?user=utkarsh-x-jain&pokes=25,6,9,3,94,149" width="100%" alt="Utkarsh's animated Pokémon team" />
 
-<p><em>Consistency over intensity. Every contribution is another step forward.</em></p>
+</div>
 
-<table>
-  <tr>
-    <td width="78%" valign="middle">
-      <img src="./github-metrics.svg" width="100%" alt="Live GitHub contribution calendar, coding languages and contribution statistics" />
-    </td>
-    <td width="22%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="150" alt="Animated Charizard" />
-      <br/>
-      <strong>CHARIZARD</strong>
-      <br/>
-      <sub>My contribution guardian</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="./github-metrics.svg" width="100%" alt="GitHub contribution calendar, coding languages and activity metrics" />
 
 </div>
 
