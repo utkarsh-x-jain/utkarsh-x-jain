@@ -6,9 +6,22 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/utkarsh-x-jain/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:jainutkarsh986@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/utkarsh-x-jain"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<table align="center">
+  <tr>
+    <td align="left">
+      <sub>▸ UTKARSH / CONNECT</sub>
+      <br/><br/>
+      <h2>Let's create something impactful.</h2>
+      <sub>Open to collaborations, interesting projects, and opportunities.</sub>
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/utkarsh-x-jain/"><img src="https://img.shields.io/badge/LINKEDIN-NETWORK-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0D1117" alt="LinkedIn — Network"/></a>
+      <a href="mailto:jainutkarsh986@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117" alt="Email — Contact"/></a>
+      <a href="https://github.com/utkarsh-x-jain"><img src="https://img.shields.io/badge/GITHUB-EXPLORE-161B22?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117" alt="GitHub — Explore"/></a>
+      <br/><br/>
+      <sub>STATUS: OPEN TO BUILD · END OF INTERFACE_</sub>
+    </td>
+  </tr>
+</table>
 
 **Computer Science (AI) undergraduate · Aspiring AI & Full-Stack Engineer**
 
