@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://utkarsh-x-jain.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-6554C0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/utkarsh-x-jain/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:jainutkarsh986@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/utkarsh-x-jain"><img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
@@ -24,7 +24,6 @@
 
 ```javascript
 const utkarsh = {
-  location: "Sonipat, India 🇮🇳",
   education: "B.Tech in Computer Science (AI)",
   university: "Newton School of Technology",
   graduation: 2029,
@@ -68,9 +67,16 @@ const utkarsh = {
     </td>
     <td width="50%">
       <h3><a href="https://github.com/utkarsh-x-jain/signal">⚡ Signal</a></h3>
-      <p>Infrastructure Failure Early-Warning System — a project focused on identifying potential disruptions before they escalate.</p>
+      <p>Infrastructure Failure Early-Warning System — focused on identifying potential disruptions before they escalate.</p>
       <p><sub>Full Stack · Data · Early Warning</sub></p>
       <a href="https://signal-six-plum.vercel.app/">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3><a href="https://github.com/utkarsh-x-jain/FinRuppee">💳 FinRuppee</a></h3>
+      <p>A modern payments-focused web experience designed around digital payments in India.</p>
+      <p><sub>HTML · CSS · JavaScript</sub></p>
     </td>
   </tr>
 </table>
